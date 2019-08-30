@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyProcessor", "KeyProcessor\KeyProcessor.csproj", "{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		x86|Any CPU = x86|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.x86|Any CPU.ActiveCfg = x86|x64
+		{74B6B525-1D7E-4C9B-BC7A-1478F05B4EFF}.x86|Any CPU.Build.0 = x86|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9287CCB-EA22-41BF-90D6-0EAEB700168D}
+	EndGlobalSection
+EndGlobal
